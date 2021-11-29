@@ -1,0 +1,17 @@
+python train.py \
+    --net_type pyramidnet \
+    --dataset cifar10 \
+    --depth 100 \
+    --alpha 120 \
+    --batch_size 32 \
+    --lr 0.25 \
+    --expname PyraNet200 \
+    --epochs 36 \
+    --prob 0.5 \
+    --r 1 \
+    --alpha2 0.8 \
+    --method StyleCutMix \
+    --save_dir C:/Users/29109/Desktop/StyleMix-main/result2 \
+    --data_dir C:/Users/29109/Desktop/StyleMix-main/data \
+    --workers 8 \
+    --no-verbose
