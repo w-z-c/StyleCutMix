@@ -26,6 +26,8 @@
 
 具体展示运行时各个部分的状态效果
 
+[StyleMix论文工具复现——运行视频_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1sQ4y1i7mF?spm_id_from=333.999.0.0)
+
 #### 项目文档
 
 提供实验相关的环境搭建、代码运行所需的参数以及注释、输入输出的内容
